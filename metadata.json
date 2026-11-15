@@ -1,0 +1,6 @@
+{
+  "name": "KASBAPUR – OFFROAD CITY",
+  "description": "A complete playable 3D open-world Indian off-road driving game set in Kasbapur with 4x4 suspension physics, dynamic day-night cycle, garage vehicle unlocks, missions, and full desktop and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
